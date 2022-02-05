@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MWiPRFT7A74UvTLRHIYEIQw+fLOt+tyNAu94o5iprSsCn1u830FKog9e3idW21iZtzqb0qUHuQgIs5fG0cSTQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edson\\source\\repos\\Api_VendasClientes\\VendasCliente.Domain\\VendasCliente.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edson\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512"
+  ],
+  "logs": []
+}
